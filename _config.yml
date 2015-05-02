@@ -1,8 +1,8 @@
-title : David Ketcheson
-tagline: Numerical analysis and nonlinear waves
+title : Xianming Liu
+tagline: Flying Over the Cuckoo's Nest
 author :
-  name : David I. Ketcheson
-  email : dketch@gmail.com
+  name : Xianming Liu
+  email : xliu102@illinois.edu
 
 permalink: /:year/:month/:day/:title.html
 redirects: yes
@@ -16,9 +16,9 @@ highlighter: pygments
 source: .
 lsi: True
 
-pageviews: yes    ## toggle on sidebar pageviews 
+pageviews: yes    ## toggle on sidebar pageviews
 gitstamps: yes
-repo: https://github.com/ketch/labnotebook # used in linking history
+repo: https://github.com/liuxianming/liuxianming.github.io # used in linking history
 
 baseurl: '/'
 

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: David Ketcheson
-subtitle: Saving the world, one numerical method at a time
+title: Xianming Liu
+subtitle: I'm the One Flew Over the Cuckoo's Nest
 ---
 
 <div class="span12">
@@ -18,24 +18,21 @@ subtitle: Saving the world, one numerical method at a time
 
 <div class="span4">
 
-![floatright](assets/img/davidketcheson.jpg)
-I am an associate professor of [applied mathematics](http://cemse.kaust.edu.sa/academic/programs/applied-mathematics-computational-science/default.aspx) at King Abdullah University
-of Science and Technology ([KAUST](http://www.kaust.edu.sa)), where
-I lead the [Numerical Mathematics Group](http://numerics.kaust.edu.sa).
-
-My [research](http://numerics.kaust.edu.sa/research.html) involves
-analysis and development of numerical methods for integration of ordinary
-and partial differential equations, as well as the implementation of such methods
-in [open source, accessible, high performance software](code.html)
-and its application to understanding behavior of nonlinear waves in heterogeneous materials.
+![floatright](assets/img/head.jpg)
+Now I’m a Ph.D candidate at, [Image Formulation and Processing Group](http://ifp-uiuc.github.io) [Beckman Institute, University of Illinois at Urbana-Champaign](http://beckman.illinois.edu/). My supervisor is Professor [Thomas S. Huang](http://beckman.illinois.edu/directory/person/t-huang1). I got the Bachelor and Master degrees from [School of Computer Science and Technology, Harbin Institute of Technology](http://www.cs.hit.edu.cn/?q=taxonomy/term/17), in 2008 and 2010 respectively. I’m a recipient of Kodak Fellowship from 2014 to 2015. My research interests include computer vision (especially low level vision problems), image / video retrieval, and deep neural networks. Now I’m also working on the problem of human computation with [Prof. Robert Brunner](http://www.astro.illinois.edu/people/bigdog) at Astronomy Department, UIUC, and bridging the gap between cyber and real world.
 
 <ul class="unstyled" style="font-size:.8em;line-height=.8em">
-<li style="margin:-6px"> Office: 4202 Al-Khawarizmi Building 
+<li style="margin:-6px"> Office: 2323 Beckman Institute
 <li style="margin:-6px"> Email &amp; online networks: linked from icons below. </li>
 </ul>
 
 <span>
-  {% include sidebar_footer.html %}
+<h3>Find me on the web:</h3>
+<li> <a href="mailto:liuxianming@gmail.com" onClick="recordOutboundLink(this, 'Outbound Links', 'email'); return false;"><img src="{{site.url}}/assets/img/icon-email.png" alt="email"> Email</a></li>
+
+<li><a href="http://scholar.google.com/citations?user=697UEEIAAAAJ&hl=en"><img src="{{site.url}}/assets/img/icon-scholar.png" alt="Google Scholar"> Google Scholar Profile</a></li>
+
+<li><a href="https://github.com/liuxianming" onClick="recordOutboundLink(this, 'Outbound Links', 'Github'); return false;"><img src="{{site.url}}/assets/img/icon-github.png" alt="github"> Github</a></li>
 </span>
 </div>
 
