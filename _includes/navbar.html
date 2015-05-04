@@ -8,15 +8,18 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </a>
-      <a class="brand" href="{{ site.url }}/README.html">  <img style="float:right;" src="{{ site.url }}/assets/img/icon-info-circle-inverted.png" alt="info"></a>
       <div class="nav-collapse">
         <ul class="nav">
           {% if page.url == "/index.html" %}<li class="active">{% else %}<li>{% endif %}
           <a href="{{ site.url }}/index.html">Home</a></li>
 
+          {% if page.url == "/projects.html" %}<li class="active">{% else %}<li>{% endif %}
+          <a href="{{ site.url }}/experience.html">Experience</a></li>
+
           {% if page.url == "/publications.html" %}<li class="active">{% else %}<li>{% endif %}
           <a href="{{ site.url }}/publications.html">Publications</a></li>
 
+          <!--
           {% if page.url == "/projects.html" %}<li class="active">{% else %}<li>{% endif %}
           <a href="{{ site.url }}/projects.html">Projects</a></li>
 
@@ -28,6 +31,7 @@
 
           {% if page.url == "/code.html" %}<li class="active">{% else %}<li>{% endif %}
           <a href="{{ site.url }}/code.html">Repos</a></li>
+          -->
 
         </ul>
       </div><!--/.nav-collapse -->

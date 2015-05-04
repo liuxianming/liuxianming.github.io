@@ -20,7 +20,8 @@ pageviews: yes    ## toggle on sidebar pageviews
 gitstamps: yes
 repo: https://github.com/liuxianming/liuxianming.github.io # used in linking history
 
-baseurl: '/'
+url: http://web.engr.illinois.edu/~xliu102
+# baseurl: '/'
 
 #markdown: redcarpet
 #redcarpet:
