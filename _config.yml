@@ -6,9 +6,9 @@ permalink:           pretty
 # Setup
 title:               Xianming Liu
 tagline:             Computer Vision, Machine Learning and Crowdsourcing
-url:                 http://web.engr.illinois.edu/~xliu102/
+url:                 http://web.engr.illinois.edu/~xliu102
 paginate:            1
-baseurl:             ""
+baseurl:             "http://web.engr.illinois.edu/~xliu102/"
 
 # Assets
 #
